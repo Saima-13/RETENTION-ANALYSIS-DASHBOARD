@@ -152,6 +152,10 @@ Potential enhancements include:
 * Add automated data refresh.
 * Develop a dedicated retention recommendation page.
 
+![image_alt](image_url)
+<img width="1270" height="673" alt="Screenshot of Demographic insights" src="https://github.com/user-attachments/assets/196376fd-7c0d-4bb9-a77f-0588252d3e15" />
+
+
 
 ## 👩‍💻 Author
 
