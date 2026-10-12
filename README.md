@@ -153,9 +153,8 @@ Potential enhancements include:
 * Develop a dedicated retention recommendation page.
 
 
-## 🚀 Future Improvements
+## 🚀 Screenshort of dashboard
 
-Potential enhancements include:
 
 ![image_alt](image_url)
 <img width="1270" height="667" alt="Screenshot of Retention Analysis" src="https://github.com/user-attachments/assets/98d42060-2167-4790-b0f8-5629f25a190b" />
