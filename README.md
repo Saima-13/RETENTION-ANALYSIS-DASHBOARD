@@ -153,7 +153,7 @@ Potential enhancements include:
 * Develop a dedicated retention recommendation page.
 
 
-## 🚀 Screenshort of dashboard
+## 📷 Dashboard Preview
 
 
 ![image_alt](image_url)
